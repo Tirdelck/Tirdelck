@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tirdelck
+- 👋 Hi, I’m Jerrell, GitHub handle @Tirdelck
 - 👀 I’m interested in sustainable development and software automation of legacy processes for improved efficiency.
-- 🌱 I’m currently learning basic Python.
+- 🌱 Python is my main language, and I'm expanding to JavaScript and React.
 - 💞️ I’m looking to collaborate on a cryptocurrency trading bot.
 - 📫 Reach me at my email!
 
